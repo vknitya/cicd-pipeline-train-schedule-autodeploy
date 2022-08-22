@@ -1,5 +1,5 @@
 kind: Service
-apiVersion: v1beta1
+apiVersion: v1beta2
 metadata:
   name: train-schedule-service-canary
 spec:
