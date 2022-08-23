@@ -26,6 +26,7 @@ spec:
     matchLabels:
       app: train-schedule
       track: canary
+      version: v1
   template:
     metadata:
       labels:
